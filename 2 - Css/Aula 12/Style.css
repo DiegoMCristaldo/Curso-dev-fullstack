@@ -1,0 +1,91 @@
+body {background-color: whitesmoke;
+    font-family:'Volkhov', serif;
+    color: black;
+    font-size: 20px;
+    margin: 0;
+ }
+.container{
+ width: 1000px;  
+ margin: 0 auto;
+ 
+ }
+.Profile{
+text-align:center;
+margin-top: 50px;
+}
+ 
+.Foto-Principal{
+    border: 2px solid #f8efef; /*shorthand & */
+    border-radius: 50%;
+    margin: 30px 30px 0 30px;
+    box-shadow:2px 2px 2px black;
+ }
+h1{
+    margin-top: 10px;
+    margin-bottom:0;
+    font: 40px;
+ }  
+
+h2{
+    margin-top: 0;
+    font-style: italic;
+    color:rgb(73 73 73);
+    font-weight: 300;
+    letter-spacing: 10px;
+    }
+
+h3{
+    margin-top: 0;
+    font-weight: 300;
+    font-size: 25px;
+    
+}
+
+
+h4{
+    margin-bottom: 5px;
+    font-weight:300;
+    font-family:'Volkhov', serif;
+    font-size: 20px;
+    margin-top: 0;
+    
+}
+
+h5{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 300;
+    font-size: 17px;
+    
+}  
+
+p{
+    line-height: 25px;
+    margin-top: 0;
+}
+    
+.social-icons{
+    width:30px   
+}
+.social-icons-linkedin{
+    width:30px;
+    margin: 0 15px 0 15px;
+} 
+.jobs-list{
+    list-style: none;
+    padding-left: 20px;
+}  
+.footer{
+background-color: black;
+margin-top: 60px;
+color: white;
+text-align: center;
+padding: 10px 0;
+}
+.social-links{
+text-decoration:none;
+}
+
+
+
+

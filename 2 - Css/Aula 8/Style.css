@@ -1,0 +1,25 @@
+body {background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+
+.Foto-Principal {
+    border: 2px solid #b71c1c; /*shorthand & */
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    margin-left:100px;
+    margin: 30px;
+    box-shadow:2px 2px 2px black;
+    }   
+h1{
+    margin-bottom:0;
+    }  
+h2{
+    margin-top: 0;
+    font-style: italic;
+    color:rgb(73 73 73);
+    font-weight: 100;
+    letter-spacing: 10px;
+    }
+

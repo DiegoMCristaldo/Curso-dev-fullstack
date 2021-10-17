@@ -1,0 +1,11 @@
+body {background-color: whitesmoke;}
+
+.Foto-Principal {
+    border: 2px solid #ffffff;    /*shorthand & */
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    margin-left:100px;
+margin: 30px;
+padding: 10px;
+    }

@@ -1,0 +1,65 @@
+body {background-color: whitesmoke;
+    font-family:'Roboto Slab',serif;
+    color: black;
+ }
+.container{
+ width: 1000px;  
+ margin: 0 auto;
+ 
+ }
+.Profile{
+text-align:center;
+margin-top: 50px;
+}
+ 
+.Foto-Principal{
+    border: 2px solid #b71c1c; /*shorthand & */
+    border-radius: 50%;
+    margin: 30px 30px 0 30px;
+    box-shadow:2px 2px 2px black;
+ }
+h1{
+    margin-top: 10px;
+    margin-bottom:0;
+ }  
+
+h2{
+    margin-top: 0;
+    font-style: italic;
+    color:rgb(73 73 73);
+    font-weight: 100;
+    letter-spacing: 10px;
+    }
+
+h3{
+    margin-top: 0;
+    font-weight: 100;
+}
+
+p{
+    line-height: 25px;
+}
+.social-links{
+text-decoration: none;
+}
+
+.social-icons{
+width: 30px;
+
+}
+
+.social-icons-linkedin{
+width:30px;
+margin: 0 15px 0 15px;
+}   
+
+
+    
+
+
+
+
+
+
+
+
